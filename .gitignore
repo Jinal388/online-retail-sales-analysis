@@ -1,0 +1,8 @@
+data/raw/*
+!data/raw/.gitkeep
+*.xlsx~
+~$*
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.log
